@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dishes Choosing App</string>
+    <string name="chicken">Chicken</string>
+    <string name="paneer">Paneer</string>
+    <string name="cupcake">CupCake</string>
+    <string name="matar_paneer">Matar Paneer</string>
+    <string name="pancake">PanCake</string>
+    <string name="choose_the_favourite_dishes">Choose the Favourite Dishes</string>
+    <string name="choose">Choose</string>
+</resources>
